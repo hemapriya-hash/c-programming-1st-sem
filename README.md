@@ -61,9 +61,6 @@ A basic student database management project.
 2. Compile the code.
 3. Run the executable file.
 
-```bash
-gcc filename.c -o output
-./output
 
 🎯 Learning Outcomes
 Through these projects, I learned:
